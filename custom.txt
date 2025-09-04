@@ -1,0 +1,4 @@
+[Visual Studio Code]
+url: https://update.code.visualstudio.com/latest/win32-x64-user/stable
+
+folder: C:\folder
